@@ -35,6 +35,7 @@ Dependencies/Implemented Technology
 "https://fonts.gstatic.com"
 https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&display=swap"
 
+GitHub Live URL: https://tiffanyparks.github.io/Lernantino-C-2/
 
 Instructions
 
