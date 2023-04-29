@@ -1,15 +1,18 @@
-*{
+* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
-    font-family: 'Open Sans' sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #333;
-   
+    color: black;
+    
+    
+
+
 }
 
 .sub-container {
@@ -17,19 +20,27 @@ body {
     max-width: 960px;
     margin: 100px auto;
     padding: 10px;
-    grid-template-columns: 1fr 1fr;  
+    grid-template-columns: 1fr 1fr;
+    background-color:ghostwhite;
+   
 }
 
 .sub-container-3 {
     display: grid;
-    grid-template-rows:  (4, 1fr);
-    
+    /* grid-template-rows: (4, 1fr); */
+
 }
 
-.sub-container-4 {
+.sub-container-1 {
     display: grid;
-    grid-template-rows:  (4, 1fr);  
+
 }
+
+#items {
+    display: flex;
+   
+}
+
 
 #about-me {
     float: left;
@@ -44,17 +55,9 @@ body {
 }
 
 #text-me {
-float: right;
-}
-/* 
-#mobile {
     float: right;
 }
 
-
-#email {
-    float: left;
-} */
 
 #head-shot {
     float: left;
@@ -98,11 +101,7 @@ float: right;
     float: left;
     margin-left: 20px;
 }
-/* 
-#my-work-title {
-    grid-column: 2;
-    justify-self: end;
-} */
+
 
 .image-container {
     transition: all 0.3s ease-in-out;
@@ -141,6 +140,11 @@ float: right;
         align-items: center;
         padding: 10px;
     }
-}  
-
-
+}
+@media screen and (max-width: 576px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+    }
+}

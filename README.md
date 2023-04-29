@@ -23,13 +23,18 @@ THEN I am presented with the city name, the date, an icon representation of weat
 WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city
-```
-
-Dependencies
+THEN I am again presented with current and future condiDependencies
 
 *HTML
 *CSS
+Dependencies/Implemented Technology 
+
+*HTML
+*CSS
+"https://fonts.googleapis.com"
+"https://fonts.gstatic.com"
+https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&display=swap"
+
 
 Instructions
 
@@ -37,5 +42,6 @@ Click navigation links at the top of the page to be redirected to listed section
 Click on each image located the my work section to view gitHub live links
 Click "top" option at the bottom of the page to be rerouted to the top the page.
 
-GitHub url: https://github.com/TiffanyParks/Lernantino-C-2.git
+
+
 
