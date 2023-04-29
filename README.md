@@ -47,5 +47,3 @@ Click on each image located the my work section to view gitHub live links
 Click "top" option at the bottom of the page to be rerouted to the top the page.
 
 
-
-
