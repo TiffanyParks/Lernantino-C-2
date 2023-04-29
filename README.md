@@ -37,4 +37,5 @@ Click navigation links at the top of the page to be redirected to listed section
 Click on each image located the my work section to view gitHub live links
 Click "top" option at the bottom of the page to be rerouted to the top the page.
 
+GitHub url: https://github.com/TiffanyParks/Lernantino-C-2.git
 
