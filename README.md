@@ -38,6 +38,8 @@ https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&display=
 GitHub Live URL: https://tiffanyparks.github.io/Lernantino-C-2/
 GitHub Respository URL: https://github.com/TiffanyParks/Lernantino-C-2.git
 
+Image: <img width="284" alt="image" src="https://user-images.githubusercontent.com/126128634/235286762-be12ad81-6a8c-4f88-8826-fcda44e57f1b.png">
+
 Instructions
 
 Click navigation links at the top of the page to be redirected to listed section of the page.
